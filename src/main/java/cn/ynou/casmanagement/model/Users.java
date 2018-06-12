@@ -1,6 +1,7 @@
 package cn.ynou.casmanagement.model;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 @Entity
 public class Users {
